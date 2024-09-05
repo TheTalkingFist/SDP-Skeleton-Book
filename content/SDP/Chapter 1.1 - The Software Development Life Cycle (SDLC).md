@@ -33,7 +33,7 @@ From these, the team makes a <u>Requirements Document</u> where they document th
 
 
 
-### 2. Non-Functional Requirements
+### 2. Functional Requirements
 
 These have to do with <u>what</u> the product is <u>actually supposed to do</u>. Basically, these handle the **features** that the product will have. For example:
 
@@ -44,7 +44,7 @@ The Obsidian Note-taking app should be able to:
 
 
 
-### 3. Functional Requirements
+### 3. Non-Functional Requirements
 
 Lastly, the Functional Requirements are regarding <u>how the system should do it</u>. You can think of it as the *performance requirements*.
 
