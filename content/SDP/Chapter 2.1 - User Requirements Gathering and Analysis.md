@@ -3,7 +3,8 @@
 
 ## Requirement Analysis
 
-!(Screenshot)[Screenshot 2024-09-02 162248.png] 
+![[Screenshot 2024-09-02 162248.png]]
+
 
 The first step of any SDLC Is to Define the Project's requirements.
 During this phase we gather(collect) all the relevant information needed to develop a 
